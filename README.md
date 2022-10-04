@@ -9,11 +9,12 @@ This project is all about providing opportunities to low income individuals and 
       Simple Interest is the convenient method used in banking and economic sectors to calculate the interest charges on loans.It gets estimated day to day with the help of some mathematical terms.
 
    #### Formula
-      Simple Interest = (P × R × T)/100   
+     Simple Interest = (P × R × T)/100   
            where ,
              P = Principal Amount
              R = Rate per Annum 
-             T = Time (years)  
+             T = Time (years)
+         
    #### Complexity of this program
                       O(1)
                       
@@ -35,6 +36,14 @@ This project is all about providing opportunities to low income individuals and 
   
   ### Motivation
       Main focus of me to create this project is to provide and empower low income individuals
+     
+  ## Contributing
+       Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+            Please make sure to update tests as appropriate.
+        
+   ### License
+       Apache 2.0
       
    #### As a individual it's my pleasure to crete this project
    
